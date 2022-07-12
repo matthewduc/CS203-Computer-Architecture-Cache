@@ -4,7 +4,7 @@
   Taghreed Alanazi
 
 ## The goal of this project is to explore memory hierarchy design choices, with a focus on L1 cache design. 
-Configured of Cache is as follows:
+## Configured Cache is as follows:
 ![Screen Shot 2022-07-12 at 2 40 02 PM](https://user-images.githubusercontent.com/57783476/178600191-fb64631c-d403-42e0-ba78-7e83b5d4f7ce.png)
 
 ## Analyzing a Data Cache Rate of Workloads:
